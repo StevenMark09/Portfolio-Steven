@@ -42,7 +42,7 @@ export default function About() {
                   { skill: 'React', image: '/ReactJS.svg' },
                   { skill: 'Next.js', image: '/NextJS.jpeg' },
                   { skill: 'TypeScript', image: '/TypeScript.png' },
-                  { skill: 'Node.js', image: '/NodeJS.jpg' },
+                  { skill: 'Node.js', image: '/NodeJs.jpg' },
                   { skill: 'Tailwind CSS', image: '/TailwindCSS.png' },
                   { skill: 'HTML', image: '/Html.png' },
                   { skill: 'CSS', image: '/Css.png' },
