@@ -60,7 +60,7 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="font-semibold text-white">LinkedIn</h3>
-              <a href="https://www.linkedin.com/in/steven-mark-catalan-341b7b345/" className="text-sky-400 hover:underline">Steven's LinkedIn</a>
+              <a href="https://www.linkedin.com/in/steven-mark-catalan-341b7b345/" className="text-sky-400 hover:underline">Steven&apos;s LinkedIn</a>
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="font-semibold text-white">Github</h3>
-              <a href="https://github.com/StevenMark09" className="text-sky-400 hover:underline"> Steven's Github</a>
+              <a href="https://github.com/StevenMark09" className="text-sky-400 hover:underline"> Steven&apos;s Github</a>
             </div>
           </div>
         </div>
